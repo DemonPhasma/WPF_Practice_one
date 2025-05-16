@@ -110,13 +110,13 @@
                         <TranslateTransform X="0.492"/>
                     </TransformGroup>
                 </GroupBox.RenderTransform>
-                <WrapPanel Height="132" Orientation="Horizontal" Margin="0,0,-12,0">
-                    <CheckBox x:Name="checkbox9" Content="Администратор баз данных" IsChecked="False" Margin="3"/>
+                <WrapPanel Height="88" Orientation="Horizontal" Margin="0,0,-5,0">
+                    <CheckBox x:Name="checkbox9" Content="Администратор БД" IsChecked="False" Margin="3"/>
                     <CheckBox x:Name="checkbox10" Content="Администратор вычислительной сети" IsChecked="False" Margin="3"/>
-                    <CheckBox x:Name="checkbox11" Content="Администратор защиты" IsChecked="False" Margin="3"/>
-                    <CheckBox x:Name="checkbox12" Content="Аналитик программного обеспечения" IsChecked="False" Margin="3"/>
-                    <CheckBox x:Name="checkbox13" Content="Архитектор проограммного обеспечения" IsChecked="False" Margin="3"/>
-                    <CheckBox x:Name="checkbox14" Content="Ведущий программист" IsChecked="False" Margin="3"/>
+                    <CheckBox x:Name="checkbox11" Content="Админ Protect" IsChecked="False" Margin="3"/>
+                    <CheckBox x:Name="checkbox12" Content="Аналитик ПО" IsChecked="False" Margin="3"/>
+                    <CheckBox x:Name="checkbox13" Content="Архитектор ПО" IsChecked="False" Margin="3"/>
+                    <CheckBox x:Name="checkbox14" Content="Главный программист" IsChecked="False" Margin="3"/>
                     <CheckBox x:Name="checkbox15" Content="Контент-менеджер" IsChecked="False" Margin="3"/>
                     <CheckBox x:Name="checkbox16" Content="Тестировщик" IsChecked="False" Margin="3"/>
                 </WrapPanel>

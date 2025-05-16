@@ -18,3 +18,4 @@ C:\Users\Top\source\repos\WPF_Homework_one\obj\Debug\net8.0-windows\refint\WPF_P
 C:\Users\Top\source\repos\WPF_Homework_one\obj\Debug\net8.0-windows\WPF_Practice_one.pdb
 C:\Users\Top\source\repos\WPF_Homework_one\obj\Debug\net8.0-windows\WPF_Practice_one.genruntimeconfig.cache
 C:\Users\Top\source\repos\WPF_Homework_one\obj\Debug\net8.0-windows\ref\WPF_Practice_one.dll
+C:\Users\Top\source\repos\WPF_Homework_one\obj\Debug\net8.0-windows\WPF_Practice_one.sourcelink.json
